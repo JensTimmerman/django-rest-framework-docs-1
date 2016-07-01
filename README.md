@@ -1,5 +1,5 @@
 ## ** This package is no longer being maintained **
-## Please use [Django REST Swagger](https://github.com/marcgibbons/django-rest-swagger)
+## Please use [drfdocs](https://github.com/ekonstantinidis/django-rest-framework-docs)
 
 ===========================
 Rest Framework Docs (0.1.7)
